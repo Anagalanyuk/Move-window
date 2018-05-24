@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Move_window.Properties
+namespace MoveWindow.Properties
 {
 
 
