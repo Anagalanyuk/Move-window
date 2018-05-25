@@ -4,13 +4,13 @@ using System.Windows.Forms;
 
 namespace MoveWindow
 {
-	public partial class moveWindow : Form
+	public partial class MoveWindow : Form
 	{
 		private const int step = 6;
 
 		private Direction move = Direction.Up;
 
-		public moveWindow()
+		public MoveWindow()
 		{
 			InitializeComponent();
 		}

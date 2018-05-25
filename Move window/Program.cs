@@ -13,7 +13,7 @@ namespace MoveWindow
 		{
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
-			Application.Run(new moveWindow());
+			Application.Run(new MoveWindow());
 		}
 	}
 }

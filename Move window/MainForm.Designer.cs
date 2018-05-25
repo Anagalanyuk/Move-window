@@ -1,6 +1,6 @@
 ﻿namespace MoveWindow
 {
-	partial class moveWindow
+	partial class MoveWindow
 	{
 		/// <summary>
 		/// Required designer variable.
